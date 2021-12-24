@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Timbaines
 - 👀 I’m interested in Front-End Development and Web Design (Figma for prototyping)...
-- 🌱 I’m currently have experience with HTML, CSS & SCSS, J
+- 🌱 I’m currently have experience with HTML, CSS & SCSS
 - 🌱 I am currently learning JS & React
 
 
