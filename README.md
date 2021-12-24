@@ -4,6 +4,9 @@
 - 💞️ I’m looking to grow through education and become experienced enough to help others who are having a difficult time...
 - 📫 How to reach me - DM...
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e9d980b8-6ec1-4366-a650-0a875980e60d/deploy-status)](https://app.netlify.com/sites/omnifood-js-tb/deploys)
+
+
 <!---
 Timbaines/Timbaines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
