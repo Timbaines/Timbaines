@@ -1,6 +1,21 @@
-## Hi there 👋
+# Hi, my name is Tim Baines
+
+## Skills
+
+### Programming Languages
+[![](https://skillicons.dev/icons?i=js,&perline=3)](https://skillicons.dev)
+### Frontend Technologies
+[![](https://skillicons.dev/icons?i=nextjs,react,laravel,html,css,tailwind,&perline=6)](https://skillicons.dev)
+### Databases
+[![](https://skillicons.dev/icons?i=supabase,&perline=3)](https://skillicons.dev)
+### IDE's and Text Editors
+[![](https://skillicons.dev/icons?i=webstorm,phpstorm,vscode,&perline=3)](https://skillicons.dev)
+### Design Tools
+[![](https://skillicons.dev/icons?i=figma,ps,ai,&perline=3)](https://skillicons.dev)
 
 <!--
+
+## Hi there 👋
 **Timbaines/Timbaines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
