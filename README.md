@@ -1,4 +1,4 @@
-# Hi, my name is Tim Baines
+# Profile: Tim Baines
 
 ## Skills
 
