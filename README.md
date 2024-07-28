@@ -5,7 +5,7 @@
 ### Programming Languages
 [![](https://skillicons.dev/icons?i=js,&perline=3)](https://skillicons.dev)
 ### Frontend Technologies
-[![](https://skillicons.dev/icons?i=bootstrap,nextjs,react,laravel,wordpress,html,css,tailwind,sass,&perline=6)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=bootstrap,nextjs,react,wordpress,html,css,tailwind,sass,&perline=6)](https://skillicons.dev)
 ### Databases
 [![](https://skillicons.dev/icons?i=firebase,supabase,&perline=3)](https://skillicons.dev)
 ### IDE's and Text Editors
