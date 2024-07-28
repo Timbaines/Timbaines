@@ -5,15 +5,15 @@
 ### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=js,&perline=3)](https://skillicons.dev)
 ### Frontend Technologies
-[![](https://skillicons.dev/icons?i=html,css,bootstrap,nextjs,react,vite,tailwind,sass,wordpress,&perline=6)](https://skillicons.dev)
+[![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,nextjs,react,vite,tailwind,sass,wordpress,&perline=6)](https://skillicons.dev)
 ### Databases
-[![](https://skillicons.dev/icons?i=firebase,supabase,&perline=3)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=firebase,supabase,&perline=3)](https://skillicons.dev)
 ### IDE's and Text Editors
-[![](https://skillicons.dev/icons?i=webstorm,phpstorm,vscode,&perline=3)](https://skillicons.dev)
+[![IDE's and Text Editors](https://skillicons.dev/icons?i=webstorm,phpstorm,vscode,&perline=3)](https://skillicons.dev)
 ### Hosting
-[![](https://skillicons.dev/icons?i=netlify,phpstorm,vscode,&perline=3)](https://skillicons.dev)
+[![Hosting](https://skillicons.dev/icons?i=netlify,&perline=3)](https://skillicons.dev)
 ### Design Tools
-[![](https://skillicons.dev/icons?i=figma,ps,ai,&perline=3)](https://skillicons.dev)
+[![Design Tools](https://skillicons.dev/icons?i=figma,ps,ai,&perline=3)](https://skillicons.dev)
 
 <!--
 
