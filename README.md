@@ -8,6 +8,8 @@
 [![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,nextjs,react,vite,tailwind,sass,wordpress,jquery,&perline=6)](https://skillicons.dev)
 ### Databases
 [![Databases](https://skillicons.dev/icons?i=firebase,supabase,&perline=3)](https://skillicons.dev)
+### Version Control
+[![Version Control](https://skillicons.dev/icons?i=git,github,&perline=3)](https://skillicons.dev) 
 ### IDE | Text Editor
 [![IDE Text Editor](https://skillicons.dev/icons?i=webstorm,phpstorm,vscode,&perline=3)](https://skillicons.dev)
 ### Hosting
