@@ -1,6 +1,6 @@
 # Profile: Tim Baines
 
-## Skills
+## Frontend Skills
 
 ### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=js,&perline=3)](https://skillicons.dev)
