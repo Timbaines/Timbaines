@@ -1,5 +1,8 @@
 # Profile: Tim Baines
 
+## My Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timbaines_icons=true&theme=transparent)
+
 ## Skills
 
 ### Programming Languages
