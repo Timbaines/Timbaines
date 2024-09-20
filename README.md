@@ -10,8 +10,8 @@
 [![Databases](https://skillicons.dev/icons?i=firebase,supabase,&perline=3)](https://skillicons.dev)
 ### Version Control
 [![Version Control](https://skillicons.dev/icons?i=git,github,&perline=3)](https://skillicons.dev) 
-### IDE's, Text Editor
-[![Text Editor](https://skillicons.dev/icons?i=webstorm,phpstorm,vscode,&perline=3)](https://skillicons.dev)
+### IDE's
+[![IDE](https://skillicons.dev/icons?i=webstorm,phpstorm,&perline=3)](https://skillicons.dev)
 ### Hosting
 [![Hosting](https://skillicons.dev/icons?i=netlify,&perline=3)](https://skillicons.dev)
 ### Design Tools
