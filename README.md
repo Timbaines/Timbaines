@@ -11,9 +11,9 @@
 ### Version Control
 [![Version Control](https://skillicons.dev/icons?i=git,github,&perline=3)](https://skillicons.dev) 
 ### IDE's, Text Editor
-[![IDE Text Editor](https://skillicons.dev/icons?i=webstorm,phpstorm,vscode,&perline=3)](https://skillicons.dev)
+[![Text Editor](https://skillicons.dev/icons?i=webstorm,phpstorm,vscode,&perline=3)](https://skillicons.dev)
 ### Hosting
-[![Hosting](https://skillicons.dev/icons?i=netlify,&perline=6)](https://skillicons.dev)
+[![Hosting](https://skillicons.dev/icons?i=netlify,&perline=3)](https://skillicons.dev)
 ### Design Tools
 [![Design Tools](https://skillicons.dev/icons?i=figma,ps,ai,&perline=3)](https://skillicons.dev)
 
