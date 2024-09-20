@@ -1,7 +1,7 @@
 # Profile: Tim Baines
 
 ## My Github Stats
-![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timbaines&show_icons=true&theme=radical)
+![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timbaines&show_icons=true&theme=dark)
 
 ## Skills
 
