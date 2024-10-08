@@ -13,7 +13,7 @@
 ### IDE's
 [![IDE's](https://skillicons.dev/icons?i=webstorm,phpstorm,&perline=3)](https://skillicons.dev)
 ### Hosting
-[![Hosting](https://skillicons.dev/icons?i=netlify,&perline=3)](https://skillicons.dev)
+[![Hosting](https://skillicons.dev/icons?i=netlify,vercel,&perline=3)](https://skillicons.dev)
 ### Design Tools
 [![Design Tools](https://skillicons.dev/icons?i=figma,ps,ai,&perline=3)](https://skillicons.dev)
 
