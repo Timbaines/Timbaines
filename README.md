@@ -1,4 +1,4 @@
-# Profile: Tim Baines
+# Hi I'm Tim... <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
 ## Skills
 
