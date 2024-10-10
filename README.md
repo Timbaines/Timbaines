@@ -1,5 +1,8 @@
 # Hi, I'm Tim... <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
+## You can reach me through:
+<a href="https://www.timbaines.dev/" title="Portfolio"><img alt="Portfolio Site"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a>
+
 ## Skills
 
 ### Programming Languages
