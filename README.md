@@ -8,11 +8,11 @@
 ### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=js,&perline=3)](https://skillicons.dev)
 ### Frontend Technologies
-[![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,nextjs,react,vite,tailwind,sass,wordpress,jquery,&perline=6)](https://skillicons.dev)
+[![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,nextjs,react,vite,tailwind,sass,wordpress,&perline=6)](https://skillicons.dev)
 ### Databases
 [![Databases](https://skillicons.dev/icons?i=firebase,supabase,&perline=3)](https://skillicons.dev)
 ### Version Control
-[![Version Control](https://skillicons.dev/icons?i=git,github,&perline=3)](https://skillicons.dev) 
+[![Version Control](https://skillicons.dev/icons?i=git,&perline=3)](https://skillicons.dev) 
 ### IDE's
 [![IDE's](https://skillicons.dev/icons?i=webstorm,phpstorm,&perline=3)](https://skillicons.dev)
 ### Hosting
