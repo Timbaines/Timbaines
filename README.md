@@ -14,7 +14,7 @@
 ### Version Control
 [![Version Control](https://skillicons.dev/icons?i=git,&perline=3)](https://skillicons.dev) 
 ### IDE's
-[![IDE's](https://skillicons.dev/icons?i=webstorm,phpstorm,&perline=3)](https://skillicons.dev)
+[![IDE's](https://skillicons.dev/icons?i=webstorm,&perline=3)](https://skillicons.dev)
 ### Hosting
 [![Hosting](https://skillicons.dev/icons?i=netlify,vercel,&perline=3)](https://skillicons.dev)
 ### Design Tools
